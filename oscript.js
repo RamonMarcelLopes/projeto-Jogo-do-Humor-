@@ -18,5 +18,5 @@ if(textos.innerText  === text[0]){
 }
 
 
-// textos.innerText = text[0]
+
 
